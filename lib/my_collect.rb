@@ -1,4 +1,4 @@
-require_relative 'spec helper'
+
 
 def my_collection(array)
   i = 0 
